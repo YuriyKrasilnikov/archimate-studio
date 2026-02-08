@@ -1,0 +1,39 @@
+archimate-studio
+Copyright 2026 Yuriy Krasilnikov
+
+This product is not affiliated with or endorsed by the Archi project or Phillip Beauvoir.
+
+This product includes software developed by:
+
+- Archi (https://www.archimatetool.com/)
+  Copyright 2008-2026 Phillip Beauvoir, Jean-Baptiste Sarrodie and contributors
+  Licensed under the MIT License
+  Source: https://github.com/archimatetool/archi
+
+- Eclipse Foundation (Equinox, EMF)
+  Copyright Eclipse Foundation and contributors
+  Licensed under the Eclipse Public License 2.0
+  Source: https://www.eclipse.org/equinox/ , https://www.eclipse.org/modeling/emf/
+
+- JGit
+  Copyright Eclipse Foundation and contributors
+  Licensed under the Eclipse Distribution License 1.0 (BSD-3)
+  Source: https://www.eclipse.org/jgit/
+
+- Oracle Helidon
+  Copyright Oracle and/or its affiliates
+  Licensed under the Apache License 2.0
+  Source: https://helidon.io/
+
+- JointJS by client.io
+  Copyright client IO s.r.o.
+  Licensed under the Mozilla Public License 2.0
+  Source: https://www.jointjs.com/
+
+- Apache Commons
+  Copyright The Apache Software Foundation
+  Licensed under the Apache License 2.0
+
+- JDOM
+  Copyright Jason Hunter and Brett McLaughlin
+  Licensed under a BSD-style license
